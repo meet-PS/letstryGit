@@ -1,0 +1,1 @@
+ Hope this push from local branch (non master) to remote branch (non master) works well
